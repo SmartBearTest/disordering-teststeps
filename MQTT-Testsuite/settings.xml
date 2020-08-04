@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="b6ec2eab-b956-4b00-a85d-3e0e9e1f6251" name="MQTT Testsuite" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="b6ec2eab-b956-4b00-a85d-3e0e9e1f6251fileName">MQTT-Testsuite</con:setting>
+  </con:settings>
+  <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:runType>PARALLELL</con:runType>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testSuite>

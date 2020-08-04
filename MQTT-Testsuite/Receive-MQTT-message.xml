@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="dd5a224f-71e6-44e7-9fff-344dadaf5224" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Receive MQTT message" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="dd5a224f-71e6-44e7-9fff-344dadaf5224fileName">Receive-MQTT-message</con:setting>
+  </con:settings>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testCase>

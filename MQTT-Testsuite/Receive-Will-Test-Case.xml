@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="e2fb3b52-7dab-4c7f-a032-5db3208bab55" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Receive Will Test Case" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="e2fb3b52-7dab-4c7f-a032-5db3208bab55fileName">Receive-Will-Test-Case</con:setting>
+  </con:settings>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testCase>

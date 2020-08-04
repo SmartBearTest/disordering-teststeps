@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="6f15d610-b931-43d8-97e7-3f6689703c6d" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Request testcase" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="6f15d610-b931-43d8-97e7-3f6689703c6dfileName">Request-testcase</con:setting>
+  </con:settings>
+  <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:testStep type="assertionteststep" name="Assertion" id="6801730e-e597-49b3-ab6d-1ac39d033391">
+    <con:settings/>
+    <con:config xsi:type="con:AssertionTestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+  </con:testStep>
+  <con:testStep type="delay" name="Delay" id="4390915c-dfb2-4b78-b66f-74798254811d">
+    <con:settings/>
+    <con:config>
+      <delay>1000</delay>
+    </con:config>
+  </con:testStep>
+  <con:properties/>
+  <con:reportParameters/>
+  <con:breakPoints>
+    <con:testStepId>76dea1d7-afb0-48b2-9bd4-bfa88ef2dcc7</con:testStepId>
+    <con:status>NONE</con:status>
+    <con:properties/>
+  </con:breakPoints>
+  <con:breakPoints>
+    <con:testStepId>4390915c-dfb2-4b78-b66f-74798254811d</con:testStepId>
+    <con:status>NONE</con:status>
+    <con:properties/>
+  </con:breakPoints>
+  <con:breakPoints>
+    <con:testStepId>964f1aa8-d233-44c8-9a18-f4de61f05702</con:testStepId>
+    <con:status>NONE</con:status>
+    <con:properties/>
+  </con:breakPoints>
+</con:testCase>
